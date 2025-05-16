@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Header from './components/Header';
 import Countdown from './components/Countdown';
@@ -6,19 +6,10 @@ import CandidateCard from './components/CandidateCard';
 import Footer from './components/Footer';
 import CandidateDetail from './components/CandidateDetail';
 import { RiScales3Line, RiFileList3Line, RiCalendarEventLine, RiBarChartGroupedLine } from '@remixicon/react';
-import axios from 'axios';
-import { Candidate } from './types';
-
+import candidatesData from './data/candidates.json';
 
 const App: React.FC = () => {
   const electionDate = new Date('2025-06-03T09:00:00');
-  const [candidates, setCandidates] = useState<Candidate[]>([]);
-  useEffect(() => {
-    axios.get<Candidate[]>('http://localhost:5000/candidates')
-      .then(res => setCandidates(res.data))
-      .catch(err => console.error(err));
-  }, []);
- 
 
   return (
     <Router>
@@ -41,7 +32,7 @@ const App: React.FC = () => {
                     </div>
                     <div className="text-center">
                       <p className="text-gray-500 text-sm">후보자 수</p>
-                      <p className="text-2xl font-bold text-gray-800">{candidates.length}명</p>
+                      <p className="text-2xl font-bold text-gray-800">{candidatesData.candidates.length}명</p>
                     </div>
                   </div>
                 </div>
@@ -59,7 +50,7 @@ const App: React.FC = () => {
                   </Link>
                 </div>
                 <div className="flex overflow-x-auto pb-4 space-x-6">
-                  {candidates.map((candidate) => (
+                  {candidatesData.candidates.map((candidate) => (
                     <Link to={`/candidate/${candidate.id}`} key={candidate.id}>
                       <CandidateCard {...candidate} />
                     </Link>
