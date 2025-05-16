@@ -1,0 +1,163 @@
+{
+    "id": "1",
+    "name": "김민수",
+    "party": "더불어민주당",
+    "image": "https://readdy.ai/api/search-image?query=professional%20portrait%20of%20a%20Korean%20male%20politician%20in%20his%2050s%20wearing%20a%20navy%20blue%20suit%20with%20a%20blue%20tie%2C%20standing%20confidently%20with%20a%20neutral%20expression%2C%20clean%20background%2C%20high%20quality%2C%20photorealistic&width=400&height=300&seq=1&orientation=portrait",
+    "description": "경제 성장과 사회 안전망 강화를 통한 포용적 성장을 추구합니다.",
+    "supportRate": 38.2,
+    "partyColor": "blue",
+    "birthDate": "1968-05-15",
+    "birthPlace": "서울특별시",
+    "family": "배우자, 자녀 2명",
+    "religion": "불교",
+    "education": {
+    "highSchool": "서울대학교사범대학부설고등학교",
+    "bachelor": "서울대학교 정치외교학과",
+    "master": "하버드대학교 정치학 석사",
+    "doctor": "하버드대학교 정치학 박사"
+    },
+    "career": [
+        "서울대학교 정치외교학과 교수 (2000-2010)",
+        "대통령실 정책기획수석 (2010-2012)",
+        "국회의원 (2012-2020)",
+        "더불어민주당 대표 (2020-2022)"
+      ],
+    "policies": {
+    "economy": [
+        {
+        "title": "기업 규제 완화",
+        "description": "기업 활동을 제약하는 불필요한 규제를 완화하여 경제 활성화를 도모합니다.",
+        "executionPlan": "임기 첫 100일 내 규제 완화 로드맵 발표 및 시행",
+        "expectedEffect": "기업 투자 유도 및 일자리 창출",
+        "isCore": true
+        },
+        {
+            "title": "소득주도 성장",
+            "description": "중소기업과 자영업자의 소득 증대를 통해 내수 활성화를 추진합니다.",
+            "executionPlan": "중소기업 지원금 확대 및 자영업자 특별 지원 프로그램 운영",
+            "expectedEffect": "소비 활성화 및 경제 성장률 상승",
+            "isCore": true
+        }
+        ],
+        "welfare": [
+          {
+            "title": "기초연금 인상",
+            "description": "노인 기초연금을 현행 30만원에서 50만원으로 인상합니다.",
+            "executionPlan": "단계적 인상 계획 수립 및 시행",
+            "expectedEffect": "노인 빈곤율 감소 및 삶의 질 향상",
+            "isCore": true
+          }
+        ],
+        "education": [
+          {
+            "title": "대학 학비 지원",
+            "description": "대학생 학비 지원을 확대하여 교육 기회를 균등하게 제공합니다.",
+            "executionPlan": "학비 지원 대상 확대 및 지원금 증액",
+            "expectedEffect": "교육 격차 해소 및 인재 육성",
+            "isCore": true
+          }
+        ],
+        "diplomacy": [
+          {
+            "title": "한미동맹 강화",
+            "description": "한미동맹을 더욱 공고히 하고 북핵 문제 해결을 위한 협력을 강화합니다.",
+            "executionPlan": "정기적 한미 정상회담 개최 및 협력 방안 논의",
+            "expectedEffect": "국제적 신뢰도 향상 및 안보 강화",
+            "isCore": true
+          }
+        ],
+        "environment": [
+          {
+            "title": "탄소중립 실현",
+            "description": "2050년까지 탄소중립을 실현하기 위한 구체적인 로드맵을 제시합니다.",
+            "executionPlan": "재생에너지 확대 및 산업 구조 개편",
+            "expectedEffect": "기후위기 대응 및 지속가능한 발전",
+            "isCore": true
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "date": "2024-03-15",
+          "time": "14:00",
+          "location": "서울시청 앞 광장",
+          "description": "서울 시민과의 대화",
+          "coordinates": {
+            "lat": 37.5665,
+            "lng": 126.9780
+          }
+        },
+        {
+          "date": "2024-03-16",
+          "time": "10:00",
+          "location": "부산 국제시장",
+          "description": "부산 유세",
+          "coordinates": {
+            "lat": 35.1796,
+            "lng": 129.0756
+          }
+        }
+      ],
+      "previousPromises": [
+        {
+          "election": "제8회 전국동시지방선거 (2022)",
+          "position": "서울시장 후보",
+          "promises": [
+            {
+              "title": "청년 일자리 창출 5만개",
+              "category": "일자리",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 12월 기준 52,847개 일자리 창출 달성",
+              "tags": ["스타트업 지원", "청년 창업"]
+            },
+            {
+              "title": "공공임대주택 3만호 공급",
+              "category": "주거",
+              "status": "inProgress",
+              "progress": 65,
+              "description": "2023년 12월 기준 19,500호 공급 완료 (65%)",
+              "tags": ["임대주택", "주거복지"]
+            },
+            {
+              "title": "지하철 무료 와이파이 전면 설치",
+              "category": "교통",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 6월 전 노선 설치 완료",
+              "tags": ["디지털 인프라", "시민편의"]
+            }
+          ]
+        },
+        {
+          "election": "제21대 국회의원 선거 (2020)",
+          "position": "서울 강남구 국회의원",
+          "promises": [
+            {
+              "title": "강남구 스타트업 밸리 조성",
+              "category": "경제",
+              "status": "completed",
+              "progress": 100,
+              "description": "2022년 9월 개발 완료 및 100개 기업 입주",
+              "tags": ["창업 지원", "지역 개발"]
+            },
+            {
+              "title": "지역 문화시설 확충",
+              "category": "문화",
+              "status": "notStarted",
+              "progress": 20,
+              "description": "예산 확보 문제로 1개소만 건립 (20%)",
+              "tags": ["문화 인프라", "주민 복지"]
+            },
+            {
+              "title": "어르신 복지관 신축",
+              "category": "복지",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 3월 개관 완료",
+              "tags": ["노인 복지", "사회 안전망"]
+            }
+          ]
+        }
+    ]
+}
