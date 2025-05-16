@@ -14,7 +14,7 @@ const App: React.FC = () => {
   const electionDate = new Date('2025-06-03T09:00:00');
   const [candidates, setCandidates] = useState<Candidate[]>([]);
   useEffect(() => {
-    axios.get<Candidate[]>('http://35.238.135.152:5000/candidates')
+    axios.get<Candidate[]>('http://localhost:5000/candidates')
       .then(res => setCandidates(res.data))
       .catch(err => console.error(err));
   }, []);
