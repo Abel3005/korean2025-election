@@ -2,27 +2,28 @@
   "candidates": [
     {
       "id": "1",
-      "name": "김민수",
+      "name": "이재명",
       "party": "더불어민주당",
-      "image": "https://readdy.ai/api/search-image?query=professional%20portrait%20of%20a%20Korean%20male%20politician%20in%20his%2050s%20wearing%20a%20navy%20blue%20suit%20with%20a%20blue%20tie%2C%20standing%20confidently%20with%20a%20neutral%20expression%2C%20clean%20background%2C%20high%20quality%2C%20photorealistic&width=400&height=300&seq=1&orientation=portrait",
-      "description": "경제 성장과 사회 안전망 강화를 통한 포용적 성장을 추구합니다.",
-      "supportRate": 38.2,
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/04/10/131385922.1.jpg",
+      "description": "이제부터 진짜 대한민국",
+      "supportRate": "51",
       "partyColor": "blue",
-      "birthDate": "1968-05-15",
-      "birthPlace": "서울특별시",
-      "family": "배우자, 자녀 2명",
-      "religion": "불교",
+      "birthDate": "1963-12-08",
+      "birthPlace": "경상북도 안동군 예안면 도촌동",
+      "family": "배우자 김혜경, 자녀 이동호·이윤호",
+      "religion": "개신교(예장합동)",
       "education": {
-        "highSchool": "서울대학교사범대학부설고등학교",
-        "bachelor": "서울대학교 정치외교학과",
-        "master": "하버드대학교 정치학 석사",
-        "doctor": "하버드대학교 정치학 박사"
+        "highSchool": "중졸 검정고시",
+        "bachelor": "중앙대학교 법학과",
+        "master": "경원대학교 행정학 석사"
       },
       "career": [
-        "서울대학교 정치외교학과 교수 (2000-2010)",
-        "대통령실 정책기획수석 (2010-2012)",
-        "국회의원 (2012-2020)",
-        "더불어민주당 대표 (2020-2022)"
+        "더불어민주당 대표 (2022–2024)",
+        "국회의원 (인천 계양을) (2022–2024)",
+        "경기도지사 (2018–2021)",
+        "성남시장 (2010–2018)",
+        "변호사 (1990–2010)"
+
       ],
       "policies": {
         "economy": [
@@ -165,26 +166,25 @@
     },
     {
       "id": "2",
-      "name": "이준호",
-      "party": "국민의힘",
-      "image": "https://readdy.ai/api/search-image?query=professional%20portrait%20of%20a%20Korean%20male%20politician%20in%20his%2060s%20wearing%20a%20dark%20red%20tie%20and%20black%20suit%2C%20standing%20confidently%20with%20a%20neutral%20expression%2C%20clean%20background%2C%20high%20quality%2C%20photorealistic&width=400&height=300&seq=2&orientation=portrait",
-      "description": "기업 규제 완화와 일자리 창출을 통한 경제 활성화를 약속합니다.",
-      "supportRate": 35.7,
-      "partyColor": "red",
-      "birthDate": "1960-03-20",
-      "birthPlace": "부산광역시",
-      "family": "배우자, 자녀 1명",
-      "religion": "개신교",
+    "name": "김문수",
+    "party": "국민의힘",
+    "image": "https://cdn.m-joongang.com/news/photo/202403/20240318_1_339387.jpg",
+    "description": "새롭게 대한민국!",
+    "supportRate": "29",
+    "partyColor": "red",
+    "birthDate": "1951-08-27",
+    "birthPlace": "경상북도 영천군 임고면 황강동",
+    "family": "배우자 설난영",
+    "religion": "기독교",
       "education": {
-        "highSchool": "부산고등학교",
-        "bachelor": "서울대학교 경제학과",
-        "master": "시카고대학교 경제학 석사"
+        "highSchool": "경북고등학교",
+        "bachelor": "서울대학교 경영학과"
       },
       "career": [
-        "한국은행 경제연구원 연구위원 (1985-1995)",
-        "국회의원 (1996-2004)",
-        "부산시장 (2004-2012)",
-        "국민의힘 대표 (2020-2022)"
+        "고용노동부 장관 (2023–2024)",
+      "경기도지사 (2006–2014)",
+      "국회의원 (1996–2006)",
+      "노동운동가 (1980–1995)"
       ],
       "policies": {
         "economy": [
@@ -310,26 +310,25 @@
     },
     {
       "id": "3",
-      "name": "박지영",
-      "party": "정의당",
-      "image": "https://readdy.ai/api/search-image?query=professional%20portrait%20of%20a%20Korean%20female%20politician%20in%20her%2040s%20wearing%20a%20green%20jacket%20over%20a%20white%20blouse%2C%20standing%20confidently%20with%20a%20neutral%20expression%2C%20clean%20background%2C%20high%20quality%2C%20photorealistic&width=400&height=300&seq=3&orientation=portrait",
-      "description": "기후 위기 대응과 사회 불평등 해소를 위한 녹색 전환을 추진합니다.",
-      "supportRate": 12.5,
-      "partyColor": "green",
-      "birthDate": "1975-08-10",
-      "birthPlace": "광주광역시",
-      "family": "배우자, 자녀 1명",
-      "religion": "무교",
+    "name": "이준석",
+    "party": "개혁신당",
+    "image": "https://img.hankyung.com/photo/202312/01.35426504.1.jpg",
+    "description": "더 크게 새롭게",
+    "supportRate": "8",
+    "partyColor": "green",
+    "birthDate": "1985-03-31",
+    "birthPlace": "서울특별시 성동구",
+    "family": "",
+    "religion": "천주교",
       "education": {
-        "highSchool": "광주과학고등학교",
-        "bachelor": "서울대학교 환경공학과",
-        "master": "MIT 환경공학 석사"
+        "highSchool": "서울과학고등학교",
+      "bachelor": "하버드대학교 컴퓨터공학·경제학"
       },
       "career": [
-        "환경운동연합 활동가 (2000-2005)",
-        "국회의원 (2005-2012)",
-        "정의당 대표 (2012-2014)",
-        "기후위기대응위원회 위원장 (2014-2020)"
+        "개혁신당 대표 (2023–현재)",
+      "국회의원 (화성시 을) (2024–현재)",
+      "국민의힘 대표 (2021–2022)",
+      "소프트웨어 스타트업 창업자 및 대표 (2015–2020)"
       ],
       "policies": {
         "economy": [
@@ -455,26 +454,458 @@
     },
     {
       "id": "4",
-      "name": "최현우",
-      "party": "국민의당",
-      "image": "https://readdy.ai/api/search-image?query=professional%20portrait%20of%20a%20Korean%20male%20politician%20in%20his%2050s%20wearing%20a%20yellow%20tie%20and%20gray%20suit%2C%20standing%20confidently%20with%20a%20neutral%20expression%2C%20clean%20background%2C%20high%20quality%2C%20photorealistic&width=400&height=300&seq=4&orientation=portrait",
-      "description": "실용주의 정책과 중도 개혁을 통한 국민 통합을 이루겠습니다.",
-      "supportRate": 8.3,
-      "partyColor": "yellow",
-      "birthDate": "1965-11-25",
-      "birthPlace": "인천광역시",
-      "family": "배우자, 자녀 2명",
-      "religion": "천주교",
+    "name": "권영국",
+    "party": "사회대전환노동당",
+    "image": "https://cdn.labortoday.co.kr/news/photo/202403/220714_98009_2510.jpg",
+    "description": "차별 없는 대한민국, 정의로운 전환",
+    "supportRate": "1",
+    "partyColor": "yellow",
+    "birthDate": "1963-08-15",
+    "birthPlace": "강원도 태백시",
+    "family": "",
+    "religion": "천주교",
       "education": {
-        "highSchool": "인천과학고등학교",
-        "bachelor": "연세대학교 정치외교학과",
-        "master": "런던정경대학 정치학 석사"
+        "highSchool": "포항제철공업고등학교",
+    "bachelor": "서울대학교 금속공학과",
+    "master": "도쿠시마대학교 조성과학연구과"
       },
       "career": [
-        "KBS 기자 (1990-2000)",
-        "국회의원 (2000-2008)",
-        "국민의당 대표 (2016-2018)",
-        "대통령실 정책실장 (2018-2020)"
+       "사회대전환노동당 대표 (2022–현재)",
+      "민변 노동위원장 (2016–2021)",
+      "노동·인권 전문 변호사 (2000–현재)"
+      ],
+      "policies": {
+        "economy": [
+          {
+            "title": "중도 경제",
+            "description": "시장과 정부의 역할을 적절히 조화시키는 경제 정책을 추진합니다.",
+            "executionPlan": "규제와 지원의 균형있는 정책 수립",
+            "expectedEffect": "안정적 경제 성장",
+            "isCore": true
+          }
+        ],
+        "welfare": [
+          {
+            "title": "균형잡힌 복지",
+            "description": "복지와 경제성장의 균형을 추구합니다.",
+            "executionPlan": "복지 재정 확충 및 효율적 운영",
+            "expectedEffect": "지속가능한 복지 체계 구축",
+            "isCore": true
+          }
+        ],
+        "education": [
+          {
+            "title": "교육 개혁",
+            "description": "교육의 질 향상과 공정한 기회 제공을 추진합니다.",
+            "executionPlan": "교육과정 개편 및 평가 체계 개선",
+            "expectedEffect": "교육 경쟁력 강화",
+            "isCore": true
+          }
+        ],
+        "diplomacy": [
+          {
+            "title": "균형 외교",
+            "description": "실용적이고 균형잡힌 외교를 펼칩니다.",
+            "executionPlan": "주요 국가와의 관계 강화",
+            "expectedEffect": "국제적 영향력 확대",
+            "isCore": true
+          }
+        ],
+        "environment": [
+          {
+            "title": "실용적 환경정책",
+            "description": "현실적이고 실현 가능한 환경 정책을 추진합니다.",
+            "executionPlan": "단계적 탄소중립 추진",
+            "expectedEffect": "환경 보호와 경제성장의 조화",
+            "isCore": true
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "date": "2024-03-15",
+          "time": "17:00",
+          "location": "인천 시청",
+          "description": "인천 유세",
+          "coordinates": {
+            "lat": 37.4563,
+            "lng": 126.7052
+          }
+        }
+      ],
+      "previousPromises": [
+        {
+          "election": "제8회 전국동시지방선거 (2022)",
+          "position": "서울시장 후보",
+          "promises": [
+            {
+              "title": "청년 일자리 창출 5만개",
+              "category": "일자리",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 12월 기준 52,847개 일자리 창출 달성",
+              "tags": ["스타트업 지원", "청년 창업"]
+            },
+            {
+              "title": "공공임대주택 3만호 공급",
+              "category": "주거",
+              "status": "inProgress",
+              "progress": 65,
+              "description": "2023년 12월 기준 19,500호 공급 완료 (65%)",
+              "tags": ["임대주택", "주거복지"]
+            },
+            {
+              "title": "지하철 무료 와이파이 전면 설치",
+              "category": "교통",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 6월 전 노선 설치 완료",
+              "tags": ["디지털 인프라", "시민편의"]
+            }
+          ]
+        },
+        {
+          "election": "제21대 국회의원 선거 (2020)",
+          "position": "서울 강남구 국회의원",
+          "promises": [
+            {
+              "title": "강남구 스타트업 밸리 조성",
+              "category": "경제",
+              "status": "completed",
+              "progress": 100,
+              "description": "2022년 9월 개발 완료 및 100개 기업 입주",
+              "tags": ["창업 지원", "지역 개발"]
+            },
+            {
+              "title": "지역 문화시설 확충",
+              "category": "문화",
+              "status": "notStarted",
+              "progress": 20,
+              "description": "예산 확보 문제로 1개소만 건립 (20%)",
+              "tags": ["문화 인프라", "주민 복지"]
+            },
+            {
+              "title": "어르신 복지관 신축",
+              "category": "복지",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 3월 개관 완료",
+              "tags": ["노인 복지", "사회 안전망"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+    "name": "구주와",
+    "party": "자유통일당",
+    "image": "https://cdn.newsspirit.kr/news/photo/202505/21430_22176_551.jpg",
+    "description": "자유와 통일, 정의와 생명",
+    "supportRate": "1",
+    "partyColor": "red",
+    "birthDate": "1980-01-23",
+    "birthPlace": "서울특별시",
+    "family": "",
+    "religion": "개신교",
+      "education": {
+        "highSchool": "용문고등학교 (졸업)",
+    "bachelor": "고려대학교 (생명공학 , 전기전자공학 / 학사)",
+    "master": "강원대학교 법학전문대학원"
+      },
+      "career": [
+         "자유통일당 최고위원 (2023–현재)",
+      "법무법인 비트윈 변호사 (2017–현재)"
+      ],
+      "policies": {
+        "economy": [
+          {
+            "title": "중도 경제",
+            "description": "시장과 정부의 역할을 적절히 조화시키는 경제 정책을 추진합니다.",
+            "executionPlan": "규제와 지원의 균형있는 정책 수립",
+            "expectedEffect": "안정적 경제 성장",
+            "isCore": true
+          }
+        ],
+        "welfare": [
+          {
+            "title": "균형잡힌 복지",
+            "description": "복지와 경제성장의 균형을 추구합니다.",
+            "executionPlan": "복지 재정 확충 및 효율적 운영",
+            "expectedEffect": "지속가능한 복지 체계 구축",
+            "isCore": true
+          }
+        ],
+        "education": [
+          {
+            "title": "교육 개혁",
+            "description": "교육의 질 향상과 공정한 기회 제공을 추진합니다.",
+            "executionPlan": "교육과정 개편 및 평가 체계 개선",
+            "expectedEffect": "교육 경쟁력 강화",
+            "isCore": true
+          }
+        ],
+        "diplomacy": [
+          {
+            "title": "균형 외교",
+            "description": "실용적이고 균형잡힌 외교를 펼칩니다.",
+            "executionPlan": "주요 국가와의 관계 강화",
+            "expectedEffect": "국제적 영향력 확대",
+            "isCore": true
+          }
+        ],
+        "environment": [
+          {
+            "title": "실용적 환경정책",
+            "description": "현실적이고 실현 가능한 환경 정책을 추진합니다.",
+            "executionPlan": "단계적 탄소중립 추진",
+            "expectedEffect": "환경 보호와 경제성장의 조화",
+            "isCore": true
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "date": "2024-03-15",
+          "time": "17:00",
+          "location": "인천 시청",
+          "description": "인천 유세",
+          "coordinates": {
+            "lat": 37.4563,
+            "lng": 126.7052
+          }
+        }
+      ],
+      "previousPromises": [
+        {
+          "election": "제8회 전국동시지방선거 (2022)",
+          "position": "서울시장 후보",
+          "promises": [
+            {
+              "title": "청년 일자리 창출 5만개",
+              "category": "일자리",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 12월 기준 52,847개 일자리 창출 달성",
+              "tags": ["스타트업 지원", "청년 창업"]
+            },
+            {
+              "title": "공공임대주택 3만호 공급",
+              "category": "주거",
+              "status": "inProgress",
+              "progress": 65,
+              "description": "2023년 12월 기준 19,500호 공급 완료 (65%)",
+              "tags": ["임대주택", "주거복지"]
+            },
+            {
+              "title": "지하철 무료 와이파이 전면 설치",
+              "category": "교통",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 6월 전 노선 설치 완료",
+              "tags": ["디지털 인프라", "시민편의"]
+            }
+          ]
+        },
+        {
+          "election": "제21대 국회의원 선거 (2020)",
+          "position": "서울 강남구 국회의원",
+          "promises": [
+            {
+              "title": "강남구 스타트업 밸리 조성",
+              "category": "경제",
+              "status": "completed",
+              "progress": 100,
+              "description": "2022년 9월 개발 완료 및 100개 기업 입주",
+              "tags": ["창업 지원", "지역 개발"]
+            },
+            {
+              "title": "지역 문화시설 확충",
+              "category": "문화",
+              "status": "notStarted",
+              "progress": 20,
+              "description": "예산 확보 문제로 1개소만 건립 (20%)",
+              "tags": ["문화 인프라", "주민 복지"]
+            },
+            {
+              "title": "어르신 복지관 신축",
+              "category": "복지",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 3월 개관 완료",
+              "tags": ["노인 복지", "사회 안전망"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+    "name": "황교안",
+    "party": "무소속",
+    "image": "https://i.namu.wiki/i/N62FXi8TJpojJoNh0x8zAs04qE8ac8ZfDm7fYfPiQq4lGWB-nARNzjZj0GrJ71qjdU85RzYxet0PxPBkGevTNQ.webp",
+    "description": "부정선거 척결, 자유대한민국 수호",
+    "supportRate": "1",
+    "partyColor": "gray",
+    "birthDate": "1957-04-15",
+    "birthPlace": "서울특별시 도봉구",
+    "family": "배우자 최지영, 자녀 2명",
+    "religion": "개신교",
+      "education": {
+        "highSchool": "서울고등학교",
+    "bachelor": "성균관대학교 법학과"
+      },
+      "career": [
+        "무소속 정치인 (2020–현재)",
+      "자유한국당 대표 (2019–2020)",
+      "대통령 권한대행 (2016–2017)",
+      "국무총리 (2015–2017)",
+      "법무부 장관 (2013–2015)"
+      ],
+      "policies": {
+        "economy": [
+          {
+            "title": "중도 경제",
+            "description": "시장과 정부의 역할을 적절히 조화시키는 경제 정책을 추진합니다.",
+            "executionPlan": "규제와 지원의 균형있는 정책 수립",
+            "expectedEffect": "안정적 경제 성장",
+            "isCore": true
+          }
+        ],
+        "welfare": [
+          {
+            "title": "균형잡힌 복지",
+            "description": "복지와 경제성장의 균형을 추구합니다.",
+            "executionPlan": "복지 재정 확충 및 효율적 운영",
+            "expectedEffect": "지속가능한 복지 체계 구축",
+            "isCore": true
+          }
+        ],
+        "education": [
+          {
+            "title": "교육 개혁",
+            "description": "교육의 질 향상과 공정한 기회 제공을 추진합니다.",
+            "executionPlan": "교육과정 개편 및 평가 체계 개선",
+            "expectedEffect": "교육 경쟁력 강화",
+            "isCore": true
+          }
+        ],
+        "diplomacy": [
+          {
+            "title": "균형 외교",
+            "description": "실용적이고 균형잡힌 외교를 펼칩니다.",
+            "executionPlan": "주요 국가와의 관계 강화",
+            "expectedEffect": "국제적 영향력 확대",
+            "isCore": true
+          }
+        ],
+        "environment": [
+          {
+            "title": "실용적 환경정책",
+            "description": "현실적이고 실현 가능한 환경 정책을 추진합니다.",
+            "executionPlan": "단계적 탄소중립 추진",
+            "expectedEffect": "환경 보호와 경제성장의 조화",
+            "isCore": true
+          }
+        ]
+      },
+      "schedule": [
+        {
+          "date": "2024-03-15",
+          "time": "17:00",
+          "location": "인천 시청",
+          "description": "인천 유세",
+          "coordinates": {
+            "lat": 37.4563,
+            "lng": 126.7052
+          }
+        }
+      ],
+      "previousPromises": [
+        {
+          "election": "제8회 전국동시지방선거 (2022)",
+          "position": "서울시장 후보",
+          "promises": [
+            {
+              "title": "청년 일자리 창출 5만개",
+              "category": "일자리",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 12월 기준 52,847개 일자리 창출 달성",
+              "tags": ["스타트업 지원", "청년 창업"]
+            },
+            {
+              "title": "공공임대주택 3만호 공급",
+              "category": "주거",
+              "status": "inProgress",
+              "progress": 65,
+              "description": "2023년 12월 기준 19,500호 공급 완료 (65%)",
+              "tags": ["임대주택", "주거복지"]
+            },
+            {
+              "title": "지하철 무료 와이파이 전면 설치",
+              "category": "교통",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 6월 전 노선 설치 완료",
+              "tags": ["디지털 인프라", "시민편의"]
+            }
+          ]
+        },
+        {
+          "election": "제21대 국회의원 선거 (2020)",
+          "position": "서울 강남구 국회의원",
+          "promises": [
+            {
+              "title": "강남구 스타트업 밸리 조성",
+              "category": "경제",
+              "status": "completed",
+              "progress": 100,
+              "description": "2022년 9월 개발 완료 및 100개 기업 입주",
+              "tags": ["창업 지원", "지역 개발"]
+            },
+            {
+              "title": "지역 문화시설 확충",
+              "category": "문화",
+              "status": "notStarted",
+              "progress": 20,
+              "description": "예산 확보 문제로 1개소만 건립 (20%)",
+              "tags": ["문화 인프라", "주민 복지"]
+            },
+            {
+              "title": "어르신 복지관 신축",
+              "category": "복지",
+              "status": "completed",
+              "progress": 100,
+              "description": "2023년 3월 개관 완료",
+              "tags": ["노인 복지", "사회 안전망"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+       "id": "7",
+    "name": "송진호",
+    "party": "무소속",
+    "image": "https://www.livesnews.com/data/photos/20250520/art_17471159345231_10089f.jpg",
+    "description": "디지털 금융, 스마트 도시, 국민 기본소득",
+    "supportRate": "1",
+    "partyColor": "gray",
+    "birthDate": "1968-03-28",
+    "birthPlace": "대구광역시",
+    "family": "",
+    "religion": "",
+      "education": {
+        "highSchool": "포항제철공업고등학교",
+    "bachelor": "서울대학교 금속공학과",
+    "master": "도쿠시마대학교 조성과학연구과",
+    "doctor": ""
+      },
+      "career": [
+        "경제주권당 창당준비위원장 (2024–현재)",
+        "글로벌데이터자산공제회 이사장 (2021–현재)",
+        "디지털금융 벤처기업 운영 (2015–2020)"
       ],
       "policies": {
         "economy": [

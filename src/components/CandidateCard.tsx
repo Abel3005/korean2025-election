@@ -5,7 +5,7 @@ interface CandidateCardProps {
   party: string;
   image: string;
   description: string;
-  supportRate: number;
+  supportRate: string;
   partyColor: string;
 }
 

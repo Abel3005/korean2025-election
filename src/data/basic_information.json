@@ -1,0 +1,17 @@
+{
+    "id": "candidate's unique number",
+    "name": "candidate's name",
+    "party": "party affiliation",
+    "image": "profile image URL",
+    "description": "the candidate's key pledges or campaign slogans",
+    "supportRate": "Support rate (%) based on latest opinion poll",
+    "partyColor": "party representative color",
+    "birthDate": "Date of birth (YYYY-MM-DD)",
+    "birthPlace": "birthplace",
+    "family": "family relationship",
+    "religion": "religion", 
+    "highSchool": "high school",
+    "bachelor": "bachelor's",
+    "master": "master's",
+    "doctor": "doctor"
+}

@@ -52,7 +52,7 @@ const App: React.FC = () => {
                 <div className="flex overflow-x-auto pb-4 space-x-6">
                   {candidatesData.candidates.map((candidate) => (
                     <Link to={`/candidate/${candidate.id}`} key={candidate.id}>
-                      <CandidateCard {...candidate} />
+                      <CandidateCard name={candidate.name} party={candidate.party} image={candidate.image} description={candidate.description} supportRate={candidate.supportRate} partyColor={candidate.partyColor} />
                     </Link>
                   ))}
                 </div>
